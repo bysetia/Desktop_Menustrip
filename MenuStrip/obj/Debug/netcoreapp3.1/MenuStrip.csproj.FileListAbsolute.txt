@@ -1,0 +1,17 @@
+F:\vscvisual\MenuStrip\MenuStrip\bin\Debug\netcoreapp3.1\MenuStrip.exe
+F:\vscvisual\MenuStrip\MenuStrip\bin\Debug\netcoreapp3.1\MenuStrip.deps.json
+F:\vscvisual\MenuStrip\MenuStrip\bin\Debug\netcoreapp3.1\MenuStrip.runtimeconfig.json
+F:\vscvisual\MenuStrip\MenuStrip\bin\Debug\netcoreapp3.1\MenuStrip.runtimeconfig.dev.json
+F:\vscvisual\MenuStrip\MenuStrip\bin\Debug\netcoreapp3.1\MenuStrip.dll
+F:\vscvisual\MenuStrip\MenuStrip\bin\Debug\netcoreapp3.1\MenuStrip.pdb
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.csproj.AssemblyReference.cache
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.Form1.resources
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.Form2.resources
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.csproj.GenerateResource.cache
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.AssemblyInfoInputs.cache
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.AssemblyInfo.cs
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.csproj.CoreCompileInputs.cache
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.dll
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.pdb
+F:\vscvisual\MenuStrip\MenuStrip\obj\Debug\netcoreapp3.1\MenuStrip.genruntimeconfig.cache
